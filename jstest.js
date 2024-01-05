@@ -217,13 +217,13 @@ addSuggestedCity("Dubai");
                 image.src = 'snow.png';
                 break;
             case 'Clouds':
-                image.src = 'C:clouds.png';
+                image.src = 'clouds.png';
                 break;
             case 'Mist':
                 image.src = 'mist.png'; // Double backslashes in the path
                 break;
             case 'Drizzle':
-                image.src = 'C:\\Users\\kauti\\OneDrive\\Desktop\\directory\\images\\drizzle.png';
+                image.src = 'drizzle.png';
                 break;
             case 'Haze':
                     image.src = 'haze.png'
