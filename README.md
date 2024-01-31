@@ -20,4 +20,4 @@ As we look ahead, ClimateCraft envisions a future of continuous improvement. Our
 ## Embark on Your Weather Journey
 Whether you are a weather enthusiast, a frequent traveler, or someone planning a simple outdoor activity, ClimateCraft welcomes you to explore the world of real-time weather insights. Our commitment to simplicity, accuracy, and future development ensures that ClimateCraft remains your trusted companion in navigating the elements.
 
-In a world where weather conditions shape our daily lives, ClimateCraft empowers you with the information you need, beautifully presented and effortlessly accessible. Embark on your weather journey today with ClimateCraft – where simplicity meets precision.
+In a world where weather conditions shape our daily lives, ClimateCraft empowers you with the information you need, beautifully presented and effortlessly accessible. Embark on your weather journey today with ClimateCraft – where simplicity meets precision. yesgt
